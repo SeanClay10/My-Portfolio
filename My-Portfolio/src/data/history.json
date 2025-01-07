@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Technology Integration Intern",
+    "organisation": "CDW",
+    "startDate": "Jan, 2024",
+    "endDate": "Present",
+    "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
+    "imageSrc": "history/cdw.png"
+  },
+  {
+    "role": "Parks Maintenance Technician",
+    "organisation": "City of Hillsboro",
+    "startDate": "June, 2023",
+    "endDate": "Sept, 2024",
+    "experiences": ["Worked on Windows 11", "Designed the control panel"],
+    "imageSrc": "history/hillsboro1.png"
+  }
+]
