@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Data Stuctures",
+        "grade": "A"
+    },
+    {
+        "title": "Operating Systems",
+        "grade": "A"
+    },
+    {
+        "title": "Computer Architecture",
+        "grade": "A"
+    },
+    {
+        "title": "Web Development",
+        "grade": "A"
+    },
+    {
+        "title": "Software Engineering II",
+        "grade": "A"
+    },
+    {
+        "title": "Analysis of Algorithms",
+        "grade": "A-"
+    }
+]
