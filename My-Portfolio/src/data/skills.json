@@ -8,23 +8,47 @@
     "imageSrc": "skills/css.png"
   },
   {
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
+    "title": "C++",
+    "imageSrc": "skills/C++.png"
+  },
+  {
+    "title": "C",
+    "imageSrc": "skills/c.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.png"
+  },
+  {
     "title": "React",
     "imageSrc": "skills/react.png"
   },
   {
-    "title": "Node",
+    "title": "Qt",
+    "imageSrc": "skills/qt.png"
+  },
+  {
+    "title": "SQL",
+    "imageSrc": "skills/sql.png"
+  },
+  {
+    "title": "Git VC",
+    "imageSrc": "skills/git.png"
+  },
+  {
+    "title": "Wireshark",
+    "imageSrc": "skills/wireshark.png"
+  },
+  {
+    "title": "Node.js",
     "imageSrc": "skills/node.png"
   },
   {
-    "title": "GraphQL",
-    "imageSrc": "skills/graphql.png"
-  },
-  {
-    "title": "MongoDB",
-    "imageSrc": "skills/mongodb.png"
-  },
-  {
-    "title": "Figma",
-    "imageSrc": "skills/figma.png"
+    "title": "CI/CD",
+    "imageSrc": "skills/cicd.png"
   }
 ]

@@ -7,9 +7,9 @@
     "source": "https://github.com/SeanClay10/MT-Poker-Simulator"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "title": "Ultimate Trivia Challenge",
+    "imageSrc": "projects/TriviaHomeScreen.png",
+    "description": "JavaScript trivia game served through node.js server. Four different categories to choose from and leaderboard for top scores.",
     "skills": ["React", "Express", "Node", "Sass"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
