@@ -1,11 +1,10 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Texas Hold'Em Poker App",
+    "imageSrc": "projects/poker.png",
+    "description": "A multi-threaded, object-oriented poker application built in C++ with a Qt-based front-end for an intuitive and visually appealing user experience.",
+    "skills": ["C++", "Qt", "Agile Development", "CMake"],
+    "source": "https://github.com/SeanClay10/MT-Poker-Simulator"
   },
   {
     "title": "Project B",

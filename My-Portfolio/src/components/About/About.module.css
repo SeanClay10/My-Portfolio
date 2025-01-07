@@ -41,6 +41,21 @@
   width: 20%;
 }
 
+.algorithm {
+  margin-right: 20px;
+  width: 22%;
+}
+
+.database {
+  margin-right: 20px;
+  width: 21%;
+}
+
+.aboutMe {
+  margin-right: 150px;
+  width: 35%;
+}
+
 .aboutItem {
   display: flex;
   flex-direction: row;
