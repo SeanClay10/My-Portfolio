@@ -9,7 +9,7 @@
   z-index: 1;
   margin-left: 10%;
   margin-right: 10%;
-  box-shadow: 0 0 15px rgba(11, 47, 114, 0.4);
+  box-shadow: 0 0 15px rgba(18, 35, 67, 0.4);
 }
 
 .title {
@@ -37,26 +37,6 @@
   gap: 50px;
 }
 
-.development {
-  margin-right: 20px;
-  width: 20%;
-}
-
-.algorithm {
-  margin-right: 20px;
-  width: 22%;
-}
-
-.database {
-  margin-right: 20px;
-  width: 21%;
-}
-
-.aboutMe {
-  margin-right: 150px;
-  width: 35%;
-}
-
 .aboutItem {
   display: flex;
   flex-direction: row;
@@ -74,17 +54,38 @@
   transition: 0.4s;
 }
 
+.development {
+  margin-right: 20px;
+  width: 20%;
+}
+
+.algorithm {
+  margin-right: 20px;
+  width: 22%;
+}
+
+.database {
+  margin-right: 20px;
+  width: 21%;
+}
+
+.aboutMe {
+  margin-right: 150px;
+  width: 25%;
+}
+
 .aboutItem:hover {
   background-size: 100% 100%;
 }
 
 .aboutItem h3 {
-  font-size: 25px;
+  font-size: 19px;
   font-weight: 600;
+  margin-bottom: 5px;
 }
 
 .aboutItem p {
-  font-size: 25px;
+  font-size: 19px;
 }
 
 @media screen and (max-width: 830px) {

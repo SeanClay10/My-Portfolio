@@ -10,16 +10,28 @@
     "title": "Ultimate Trivia Challenge",
     "imageSrc": "projects/TriviaHomeScreen.png",
     "description": "JavaScript trivia game served through node.js server. Four different categories to choose from and leaderboard for top scores.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "skills": ["JavaScript", "Node.js", "Handlebars", "Express", "Web Development"],
+    "source": "https://github.com/SeanClay10/Ultimate-Trivia-Challenge"
   },
   {
-    "title": "Project C",
+    "title": "Custom Small Shell",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "A custom shell implementation in C that supports Linux commands, background processes, signal handling, input/output redirection, and a foreground-only mode toggle.",
+    "skills": ["C", "Background Processing", "File I/O", "Signal Handling"],
+    "source": "https://github.com/SeanClay10/Small-Shell"
+  },
+  {
+    "title": "One-Time Pad Encryption",
+    "imageSrc": "projects/project.png",
+    "description": "A server-client program in C for one-time pad encryption and decryption, featuring key generation, secure communication, and error handling mechanisms.",
+    "skills": ["C", "Socket Programming", "Encryption", "Error Handling"],
+    "source": "https://github.com/SeanClay10/One-Time-Pad"
+  },
+  {
+    "title": "Multi-Threaded Pipeline",
+    "imageSrc": "projects/project.png",
+    "description": "Multi-threaded consumer-producer pipeline in C that processes data through a series of stages, each with its own thread.",
+    "skills": ["C", "Multi-threading", "Data Processing", "File I/O"],
+    "source": "https://github.com/SeanClay10/Multi-Thread-Pipeline"
   }
 ]
