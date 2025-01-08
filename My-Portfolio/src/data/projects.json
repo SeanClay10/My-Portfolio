@@ -2,14 +2,14 @@
   {
     "title": "Texas Hold'Em Poker App",
     "imageSrc": "projects/poker.png",
-    "description": "A multi-threaded, object-oriented poker application built in C++ with a Qt-based front-end for an intuitive and visually appealing user experience.",
+    "description": "Developed a multi-threaded Poker App in C++ with a Qt-based interface. Includes features such as custom game parameters, suggested actions, AI-driven opponents, and more! ",
     "skills": ["C++", "Qt", "Agile Development", "CMake"],
     "source": "https://github.com/SeanClay10/MT-Poker-Simulator"
   },
   {
     "title": "Ultimate Trivia Challenge",
     "imageSrc": "projects/TriviaHomeScreen.png",
-    "description": "JavaScript trivia game served through node.js server. Four different categories to choose from and leaderboard for top scores.",
+    "description": "JavaScript trivia game served through Node.js server. Four different categories to choose from and leaderboard for top scores!",
     "skills": ["JavaScript", "Node.js", "Handlebars", "Express", "Web Development"],
     "source": "https://github.com/SeanClay10/Ultimate-Trivia-Challenge"
   },
