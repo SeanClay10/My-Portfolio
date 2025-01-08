@@ -17,9 +17,9 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <img className = {styles.development} src={getImageUrl("about/cycle.png")} alt="Server icon" />
             <div className={styles.aboutItemText}>
-              <h3>Exposure to Software Development Lifecycle</h3>
+              <h3>Experience with Software Development Lifecycle</h3>
               <p>
-              Experienced in full-stack development using React, PostgreSQL, and API integration, while leveraging Git version control and Agile methodology to manage team-based projects effectively.
+              Experienced in full-stack development using React, SQL, and API integration, while leveraging Git version control and Agile methodology to manage team-based projects effectively.
               </p>
             </div>
           </li>
@@ -35,7 +35,7 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <img className = {styles.algorithm} src={getImageUrl("about/numbers.png")} alt="UI icon" />
             <div className={styles.aboutItemText}>
-              <h3>Hands-On Experience with Advanced Algorithms</h3>
+              <h3>Expertise in Advanced Algorithms</h3>
               <p>
               Designed and analyzed efficient algorithms in C++ for projects, optimizing performance through the use of advanced data structures and algorithmic techniques.
               </p>

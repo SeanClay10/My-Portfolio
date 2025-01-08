@@ -9,7 +9,10 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Sean!</h1>
         <p className={styles.description}>
-        Welcome to my portfolio! I am a junior at Oregon State University pursuing a degree in Computer Science, with a focus on Artificial Intelligence and Machine Learning.
+        Welcome to my portfolio! I’m a third-year Computer Science student at Oregon State University, specializing in Artificial Intelligence and Machine Learning.
+        </p>
+        <p className={styles.reachOut}>
+        Feel free to reach out!
         </p>
         <a href="mailto:zweihander555@gmail.com" className={styles.contactBtn}>
           Contact Me
