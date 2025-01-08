@@ -37,6 +37,7 @@
   font-size: 22px;
   font-family: var(--font-roboto);
   margin-bottom: 52px;
+  max-width: calc(100% - 50px);
 }
 
 .contactBtn {
